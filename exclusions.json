@@ -1,0 +1,302 @@
+[
+  {
+    "id": "fog",
+    "name": "Туман",
+    "perks": ["homoclophobe", "homoclophile"]
+  },
+  {
+    "id": "rain",
+    "name": "Дождь",
+    "perks": ["ombrophobia", "pluviophile"]
+  },
+  {
+    "id": "space",
+    "name": "Пространство",
+    "perks": ["agoraphobia", "claustrophobia"]
+  },
+  {
+    "id": "darkness",
+    "name": "Темнота",
+    "perks": ["nyctophobia", "night_vision"]
+  },
+  {
+    "id": "alcohol",
+    "name": "Алкоголь",
+    "perks": ["alconaft", "alcoholic", "strong_liver", "weak_liver"]
+  },
+  {
+    "id": "drinks",
+    "name": "Напитки",
+    "perks": ["synthetic_beer_addiction", "wine_lover", "coffee_lover", "caffeine_addict"]
+  },
+  {
+    "id": "stomach",
+    "name": "Желудок",
+    "perks": ["weak_stomach", "iron_stomach", "bear_stomach", "beer_stomach_syndrome"]
+  },
+  {
+    "id": "smoking",
+    "name": "Курение",
+    "perks": ["smoker", "cigarette"]
+  },
+  {
+    "id": "movement",
+    "name": "Передвижение",
+    "perks": ["runner", "turtle", "slow_worker", "limp", "wheelchair", "athletic"]
+  },
+  {
+    "id": "agility_trait",
+    "name": "Ловкость (черта)",
+    "perks": ["clumsy", "agile"]
+  },
+  {
+    "id": "durability",
+    "name": "Устойчивость к урону",
+    "perks": ["fragile", "steel_body", "tough_hp", "juggernaut", "rough_skin", "sturdy", "glass_body", "heavy_lifter"]
+  },
+  {
+    "id": "spine",
+    "name": "Спина",
+    "perks": ["weak_spine", "strong_spine"]
+  },
+  {
+    "id": "body_type_weight",
+    "name": "Телосложение (вес)",
+    "perks": ["chubby", "strong_thinness"]
+  },
+  {
+    "id": "body_type_build",
+    "name": "Телосложение (тип)",
+    "perks": ["thin", "tough", "athletic"]
+  },
+  {
+    "id": "danger",
+    "name": "Отношение к опасности",
+    "perks": ["coward", "brave", "thanatophobia"]
+  },
+  {
+    "id": "violence",
+    "name": "Отношение к насилию",
+    "perks": ["pacifist_coward", "berserker", "fierce_fighter"]
+  },
+  {
+    "id": "adrenaline",
+    "name": "Адреналин",
+    "perks": ["adrenaline_lover", "coward", "thanatophobia"]
+  },
+  {
+    "id": "worldview",
+    "name": "Мировосприятие",
+    "perks": ["paranoia", "calm", "optimist"]
+  },
+  {
+    "id": "mental_state",
+    "name": "Психическое состояние",
+    "perks": ["ptsd", "calm", "emotional_snob"]
+  },
+  {
+    "id": "concentration",
+    "name": "Концентрация",
+    "perks": ["adhd", "self_control"]
+  },
+  {
+    "id": "mental_health",
+    "name": "Психическое здоровье",
+    "perks": ["schizophrenia", "iron_brain", "psychiatrist"]
+  },
+  {
+    "id": "literacy",
+    "name": "Грамота",
+    "perks": ["illiterate", "photographic_memory", "not_reader"]
+  },
+  {
+    "id": "emotions",
+    "name": "Эмоции и вещи",
+    "perks": ["sentimental", "emotional_snob", "pocket_memory"]
+  },
+  {
+    "id": "new_things",
+    "name": "Отношение к новому",
+    "perks": ["neophobia", "curious_mind", "inventive"]
+  },
+  {
+    "id": "immunity",
+    "name": "Иммунитет",
+    "perks": ["weak_immunity", "high_immunity", "incredible_immunity", "adaptive_immunity", "immunodeficiency"]
+  },
+  {
+    "id": "blood",
+    "name": "Кровь",
+    "perks": ["fast_bleeding", "thick_blood"]
+  },
+  {
+    "id": "hemophobia_group",
+    "name": "Страх крови",
+    "perks": ["hemophobe", "fast_bleeding", "thick_blood"]
+  },
+  {
+    "id": "hemophilia",
+    "name": "Гемофилия",
+    "perks": ["hemophilia_moderate", "hemophilia_severe"]
+  },
+  {
+    "id": "energy",
+    "name": "Энергия",
+    "perks": ["chronic_fatigue", "untiring", "second_wind"]
+  },
+  {
+    "id": "pain",
+    "name": "Боль",
+    "perks": ["chronic_pain", "pain_tolerance", "analgesia", "phantom_pain"]
+  },
+  {
+    "id": "cryo",
+    "name": "Криосон",
+    "perks": ["cryo_allergy", "cryo_adaptation"]
+  },
+  {
+    "id": "oxygen",
+    "name": "Кислород",
+    "perks": ["many_breaths", "breathing_technique"]
+  },
+  {
+    "id": "dna",
+    "name": "ДНК",
+    "perks": ["genetic_degradation", "genetic_optimum", "genetic_archive"]
+  },
+  {
+    "id": "tech_level",
+    "name": "Техника (уровень)",
+    "perks": ["bad_tech", "engineer", "trained_mechanic", "expert_mechanic", "tech_intuition", "electrician"]
+  },
+  {
+    "id": "welding",
+    "name": "Сварка",
+    "perks": ["metal_welder", "welder_apprentice", "welder_expert"]
+  },
+  {
+    "id": "maintenance",
+    "name": "Обслуживание",
+    "perks": ["basic_maintenance", "advanced_maintenance", "shield_helper"]
+  },
+  {
+    "id": "collecting",
+    "name": "Собирательство",
+    "perks": ["collector", "furniture_assembler"]
+  },
+  {
+    "id": "plants",
+    "name": "Растения",
+    "perks": ["gardener", "botanist", "herbalist", "farmer"]
+  },
+  {
+    "id": "hunting",
+    "name": "Охота",
+    "perks": ["tracker", "rat_catcher"]
+  },
+  {
+    "id": "observation",
+    "name": "Наблюдательность",
+    "perks": ["sky_wanderer", "eagle_eye"]
+  },
+  {
+    "id": "meat",
+    "name": "Работа с мясом",
+    "perks": ["slaughterer", "butcher"]
+  },
+  {
+    "id": "creativity",
+    "name": "Творчество",
+    "perks": ["inventive", "curious_mind", "improviser", "restoration_master"]
+  },
+  {
+    "id": "cooking",
+    "name": "Кулинария",
+    "perks": ["cook", "kitchen_chef"]
+  },
+  {
+    "id": "medicine",
+    "name": "Медицина",
+    "perks": ["self_heal_tv", "field_medic", "medical_specialist"]
+  },
+  {
+    "id": "media",
+    "name": "Медиа-коллекция",
+    "perks": ["comic_geek", "av_club"]
+  },
+  {
+    "id": "transport",
+    "name": "Транспорт",
+    "perks": ["bad_driver", "off_road", "lander", "pilot", "intuitive_pilot"]
+  },
+  {
+    "id": "melee_vs_ranged",
+    "name": "Ближний бой vs Стрелковое",
+    "perks": ["dagger_beginner", "varn"]
+  },
+  {
+    "id": "shooting",
+    "name": "Стрелковые навыки",
+    "perks": ["aim_basics", "beginner_shooter", "trained_shooter", "varn"]
+  },
+  {
+    "id": "axe",
+    "name": "Топор",
+    "perks": ["axe_skilled", "axe_master"]
+  },
+  {
+    "id": "olympus",
+    "name": "Корпорация Олимпус",
+    "perks": ["erebus_curse", "olympus_mark", "ex_olympus", "erebus_legacy", "sabotage_survivor"]
+  },
+  {
+    "id": "implants",
+    "name": "Импланты",
+    "perks": ["implant_rejection", "implant_basic", "prototype_implant", "cyber_reflexes"]
+  },
+  {
+    "id": "ai",
+    "name": "Отношение к ИИ",
+    "perks": ["talk_to_ai", "chosen_ai"]
+  },
+  {
+    "id": "animals",
+    "name": "Животные",
+    "perks": ["animal_friend", "frog_friend", "zoo_therapy"]
+  },
+  {
+    "id": "military",
+    "name": "Военная служба",
+    "perks": ["man_in_uniform", "old_guard"]
+  },
+  {
+    "id": "training",
+    "name": "Подготовка",
+    "perks": ["ex_intern", "knows_protocols"]
+  },
+  {
+    "id": "mass_gain",
+    "name": "Набор массы",
+    "perks": ["on_anabolics", "gym_rat"]
+  },
+  {
+    "id": "substances",
+    "name": "Вещества",
+    "perks": ["drunken_master", "alcoholic", "dependent"]
+  },
+  {
+    "id": "gravity",
+    "name": "Гравитация",
+    "perks": ["gravity_intolerance", "space_wolf"]
+  },
+  {
+    "id": "physical_power",
+    "name": "Физическая мощь",
+    "perks": ["weakness_gen", "tough", "tough_hp", "juggernaut"]
+  },
+  {
+    "id": "skull",
+    "name": "Травма головы",
+    "perks": ["skull_hole", "skull_hole_plus"]
+  }
+]
